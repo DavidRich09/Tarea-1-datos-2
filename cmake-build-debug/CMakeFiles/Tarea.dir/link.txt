@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Tarea.dir/main.cpp.o CMakeFiles/Tarea.dir/Node.cpp.o CMakeFiles/Tarea.dir/List.cpp.o CMakeFiles/Tarea.dir/ListPointer.cpp.o CMakeFiles/Tarea.dir/NodePointer.cpp.o CMakeFiles/Tarea.dir/Collector.cpp.o  -o Tarea 

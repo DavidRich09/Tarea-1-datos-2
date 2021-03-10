@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Tarea"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/richmond/Descargas/Tarea/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/richmond/Descargas/Tarea/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/richmond/Descargas/Tarea/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tarea">
+				<Option output="/home/richmond/Descargas/Tarea/cmake-build-debug/Tarea" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/richmond/Descargas/Tarea/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tarea"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tarea/fast">
+				<Option output="/home/richmond/Descargas/Tarea/cmake-build-debug/Tarea" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/richmond/Descargas/Tarea/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tarea/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/richmond/Descargas/Tarea/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/richmond/Descargas/Tarea/Collector.cpp">
+			<Option target="Tarea"/>
+		</Unit>
+		<Unit filename="/home/richmond/Descargas/Tarea/Collector.h">
+			<Option target="Tarea"/>
+		</Unit>
+		<Unit filename="/home/richmond/Descargas/Tarea/List.cpp">
+			<Option target="Tarea"/>
+		</Unit>
+		<Unit filename="/home/richmond/Descargas/Tarea/List.h">
+			<Option target="Tarea"/>
+		</Unit>
+		<Unit filename="/home/richmond/Descargas/Tarea/ListPointer.cpp">
+			<Option target="Tarea"/>
+		</Unit>
+		<Unit filename="/home/richmond/Descargas/Tarea/ListPointer.h">
+			<Option target="Tarea"/>
+		</Unit>
+		<Unit filename="/home/richmond/Descargas/Tarea/Node.cpp">
+			<Option target="Tarea"/>
+		</Unit>
+		<Unit filename="/home/richmond/Descargas/Tarea/Node.h">
+			<Option target="Tarea"/>
+		</Unit>
+		<Unit filename="/home/richmond/Descargas/Tarea/NodePointer.cpp">
+			<Option target="Tarea"/>
+		</Unit>
+		<Unit filename="/home/richmond/Descargas/Tarea/NodePointer.h">
+			<Option target="Tarea"/>
+		</Unit>
+		<Unit filename="/home/richmond/Descargas/Tarea/main.cpp">
+			<Option target="Tarea"/>
+		</Unit>
+		<Unit filename="/home/richmond/Descargas/Tarea/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
