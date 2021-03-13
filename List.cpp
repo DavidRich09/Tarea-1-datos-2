@@ -81,7 +81,7 @@ int List::DeleteFirst() {
 /// \return Int
 int List::DeleteLast() {
     Node* temp = head;
-    while (temp->GetNext()->GetNext() != nullptr){
+    while (temp->GetNext() != nullptr){
         temp = temp->GetNext();
     }
     size--;

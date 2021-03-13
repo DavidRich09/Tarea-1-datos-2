@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/richmond/Descargas/Tarea/Collector.cpp
-Collector.h
-/home/richmond/Descargas/Tarea/Collector.h
-
 /home/richmond/Descargas/Tarea/Collector.h
 ListPointer.h
 /home/richmond/Descargas/Tarea/ListPointer.h
@@ -28,21 +24,9 @@ Node.h
 Collector.h
 /home/richmond/Descargas/Tarea/Collector.h
 
-/home/richmond/Descargas/Tarea/ListPointer.cpp
-ListPointer.h
-/home/richmond/Descargas/Tarea/ListPointer.h
-
 /home/richmond/Descargas/Tarea/ListPointer.h
 NodePointer.h
 /home/richmond/Descargas/Tarea/NodePointer.h
-
-/home/richmond/Descargas/Tarea/Node.cpp
-Node.h
-/home/richmond/Descargas/Tarea/Node.h
-iostream
--
-stdlib.h
--
 
 /home/richmond/Descargas/Tarea/Node.h
 iostream
@@ -52,17 +36,5 @@ stdlib.h
 Collector.h
 /home/richmond/Descargas/Tarea/Collector.h
 
-/home/richmond/Descargas/Tarea/NodePointer.cpp
-NodePointer.h
 /home/richmond/Descargas/Tarea/NodePointer.h
-
-/home/richmond/Descargas/Tarea/NodePointer.h
-
-/home/richmond/Descargas/Tarea/main.cpp
-iostream
--
-List.h
-/home/richmond/Descargas/Tarea/List.h
-Node.h
-/home/richmond/Descargas/Tarea/Node.h
 
